@@ -1,0 +1,88 @@
+
+
+.main{
+    height: 45px;
+    width: 150px;
+    border:5px solid black;
+font-size: xx-large;
+margin-left:-133px;
+padding: 5px;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-left: -90px;
+}
+
+.style{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.heading-style{
+    color: red;
+}
+
+.cart{
+    font-size: 36px;
+
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    margin-right:50px ;
+}
+.container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 50px;
+    row-gap: 50px;
+    justify-content: left;
+    margin: auto;
+    width: 60%;
+    
+}
+.image{
+    height: 300px;
+    width: 200px;
+}
+.desgin{
+    font-size: 18px;
+    margin-top: -17px;
+    margin-left: 15px;
+    
+    
+}
+.icon{
+    font-size: 15px; 
+    margin-left: 3px;
+    margin-top: -20px;
+    color: orangered;
+    
+}
+
+
+.sub-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    
+}
+.price{
+    
+    margin-top:5px ;
+    
+    
+}
+
+
+
+
+    
